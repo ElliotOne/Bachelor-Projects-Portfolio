@@ -1,0 +1,32 @@
+C:\Users\Ali Momenzadeh\Desktop\LastProject\LastProject\LastProject\bin\Debug\LastProject.exe.config
+C:\Users\Ali Momenzadeh\Desktop\LastProject\LastProject\LastProject\bin\Debug\LastProject.exe
+C:\Users\Ali Momenzadeh\Desktop\LastProject\LastProject\LastProject\bin\Debug\LastProject.pdb
+C:\Users\Ali Momenzadeh\Desktop\LastProject\LastProject\LastProject\obj\Debug\LastProject.csprojAssemblyReference.cache
+C:\Users\Ali Momenzadeh\Desktop\LastProject\LastProject\LastProject\obj\Debug\LastProject.Properties.Resources.resources
+C:\Users\Ali Momenzadeh\Desktop\LastProject\LastProject\LastProject\obj\Debug\LastProject.csproj.GenerateResource.cache
+C:\Users\Ali Momenzadeh\Desktop\LastProject\LastProject\LastProject\obj\Debug\LastProject.csproj.CoreCompileInputs.cache
+C:\Users\Ali Momenzadeh\Desktop\LastProject\LastProject\LastProject\obj\Debug\LastProject.exe
+C:\Users\Ali Momenzadeh\Desktop\LastProject\LastProject\LastProject\obj\Debug\LastProject.pdb
+C:\Users\Ali Momenzadeh\Desktop\LastProject\LastProject\LastProject\obj\Debug\LastProject.FrmSecretory.resources
+C:\Users\Ali Momenzadeh\Desktop\LastProject\LastProject\LastProject\obj\Debug\LastProject.FrmDoctor.resources
+C:\Users\Ali Momenzadeh\Desktop\LastProject\LastProject\LastProject\obj\Debug\LastProject.FrmLogin.resources
+D:\1.Programming\1.Projects\2.University\1.Personal\2.Academic Projects\Project for DataStrcutor Class\LastProject\obj\Debug\LastProject.csproj.AssemblyReference.cache
+D:\1.Programming\1.Projects\2.University\1.Personal\2.Academic Projects\Project for DataStrcutor Class\LastProject\obj\Debug\LastProject.csproj.SuggestedBindingRedirects.cache
+D:\1.Programming\1.Projects\2.University\1.Personal\2.Academic Projects\Project for DataStrcutor Class\LastProject\obj\Debug\LastProject.FrmDoctor.resources
+D:\1.Programming\1.Projects\2.University\1.Personal\2.Academic Projects\Project for DataStrcutor Class\LastProject\obj\Debug\LastProject.FrmLogin.resources
+D:\1.Programming\1.Projects\2.University\1.Personal\2.Academic Projects\Project for DataStrcutor Class\LastProject\obj\Debug\LastProject.FrmSecretory.resources
+D:\1.Programming\1.Projects\2.University\1.Personal\2.Academic Projects\Project for DataStrcutor Class\LastProject\obj\Debug\LastProject.csproj.GenerateResource.cache
+D:\1.Programming\1.Projects\2.University\1.Personal\2.Academic Projects\Project for DataStrcutor Class\LastProject\obj\Debug\LastProject.exe
+D:\1.Programming\1.Projects\2.University\1.Personal\2.Academic Projects\Project for DataStrcutor Class\LastProject\obj\Debug\LastProject.pdb
+D:\1.Projects\5.University\1.Bachelor\1.Personal\1.Academic Projects\Bachelor-Projects-Portfolio_EDIT\2.Data-Structures-and-Algorithms-Module\1.Patient-Management-System\LastProject\obj\Debug\LastProject.csproj.AssemblyReference.cache
+D:\1.Projects\5.University\1.Bachelor\1.Personal\1.Academic Projects\Bachelor-Projects-Portfolio_EDIT\2.Data-Structures-and-Algorithms-Module\1.Patient-Management-System\LastProject\obj\Debug\LastProject.FrmDoctor.resources
+D:\1.Projects\5.University\1.Bachelor\1.Personal\1.Academic Projects\Bachelor-Projects-Portfolio_EDIT\2.Data-Structures-and-Algorithms-Module\1.Patient-Management-System\LastProject\obj\Debug\LastProject.FrmLogin.resources
+D:\1.Projects\5.University\1.Bachelor\1.Personal\1.Academic Projects\Bachelor-Projects-Portfolio_EDIT\2.Data-Structures-and-Algorithms-Module\1.Patient-Management-System\LastProject\obj\Debug\LastProject.FrmSecretory.resources
+D:\1.Projects\5.University\1.Bachelor\1.Personal\1.Academic Projects\Bachelor-Projects-Portfolio_EDIT\2.Data-Structures-and-Algorithms-Module\1.Patient-Management-System\LastProject\obj\Debug\LastProject.csproj.GenerateResource.cache
+D:\1.Projects\5.University\1.Bachelor\1.Personal\1.Academic Projects\Bachelor-Projects-Portfolio_EDIT\2.Data-Structures-and-Algorithms-Module\1.Patient-Management-System\LastProject\obj\Debug\LastProject.exe
+D:\1.Projects\5.University\1.Bachelor\1.Personal\1.Academic Projects\Bachelor-Projects-Portfolio_EDIT\2.Data-Structures-and-Algorithms-Module\1.Patient-Management-System\LastProject\obj\Debug\LastProject.pdb
+D:\1.Projects\5.University\1.Bachelor\1.Personal\1.Academic Projects\Bachelor-Projects-Portfolio_EDIT\2.Data-Structures-and-Algorithms-Module\1.Patient-Management-System\LastProject\bin\Debug\LastProject.exe.config
+D:\1.Projects\5.University\1.Bachelor\1.Personal\1.Academic Projects\Bachelor-Projects-Portfolio_EDIT\2.Data-Structures-and-Algorithms-Module\1.Patient-Management-System\LastProject\bin\Debug\LastProject.exe
+D:\1.Projects\5.University\1.Bachelor\1.Personal\1.Academic Projects\Bachelor-Projects-Portfolio_EDIT\2.Data-Structures-and-Algorithms-Module\1.Patient-Management-System\LastProject\bin\Debug\LastProject.pdb
+D:\1.Projects\5.University\1.Bachelor\1.Personal\1.Academic Projects\Bachelor-Projects-Portfolio_EDIT\2.Data-Structures-and-Algorithms-Module\1.Patient-Management-System\LastProject\obj\Debug\LastProject.Properties.Resources.resources
+D:\1.Projects\5.University\1.Bachelor\1.Personal\1.Academic Projects\Bachelor-Projects-Portfolio_EDIT\2.Data-Structures-and-Algorithms-Module\1.Patient-Management-System\LastProject\obj\Debug\LastProject.csproj.CoreCompileInputs.cache
