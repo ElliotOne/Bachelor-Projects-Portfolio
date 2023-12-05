@@ -1,0 +1,20 @@
+C:\Users\AMZ\Desktop\NQueens\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\AMZ\Desktop\NQueens\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\AMZ\Desktop\NQueens\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\AMZ\Desktop\NQueens\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\AMZ\Desktop\NQueens\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\AMZ\Desktop\NQueens\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\0.Programming\2.Projects\3.University\1.Abbas\NQueens\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\0.Programming\2.Projects\3.University\1.Abbas\NQueens\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\0.Programming\2.Projects\3.University\1.Abbas\NQueens\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\0.Programming\2.Projects\3.University\1.Abbas\NQueens\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\0.Programming\2.Projects\3.University\1.Abbas\NQueens\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\0.Programming\2.Projects\3.University\1.Abbas\NQueens\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\0.Programming\2.Projects\3.University\1.Abbas\NQueens\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\1.Projects\1.Projects\2.University\1.Bachelor\1.Academic Projects\Bachelor-Projects-Portfolio\4.Algorithm-Design-Module\1.NQueens\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\1.Projects\1.Projects\2.University\1.Bachelor\1.Academic Projects\Bachelor-Projects-Portfolio\4.Algorithm-Design-Module\1.NQueens\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\1.Projects\1.Projects\2.University\1.Bachelor\1.Academic Projects\Bachelor-Projects-Portfolio\4.Algorithm-Design-Module\1.NQueens\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\1.Projects\1.Projects\2.University\1.Bachelor\1.Academic Projects\Bachelor-Projects-Portfolio\4.Algorithm-Design-Module\1.NQueens\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\1.Projects\1.Projects\2.University\1.Bachelor\1.Academic Projects\Bachelor-Projects-Portfolio\4.Algorithm-Design-Module\1.NQueens\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\1.Projects\1.Projects\2.University\1.Bachelor\1.Academic Projects\Bachelor-Projects-Portfolio\4.Algorithm-Design-Module\1.NQueens\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\1.Projects\1.Projects\2.University\1.Bachelor\1.Academic Projects\Bachelor-Projects-Portfolio\4.Algorithm-Design-Module\1.NQueens\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
