@@ -1,0 +1,26 @@
+D:\1.Programming\1.Projects\2.PlayGround\2.University\9.ErfanehSadri\VoiceAssistant\VoiceAssistant_Ostad\VoiceAssistant\bin\Debug\VoiceAssistant.exe.config
+D:\1.Programming\1.Projects\2.PlayGround\2.University\9.ErfanehSadri\VoiceAssistant\VoiceAssistant_Ostad\VoiceAssistant\bin\Debug\VoiceAssistant.exe
+D:\1.Programming\1.Projects\2.PlayGround\2.University\9.ErfanehSadri\VoiceAssistant\VoiceAssistant_Ostad\VoiceAssistant\obj\Debug\VoiceAssistant.csprojAssemblyReference.cache
+D:\1.Programming\1.Projects\2.PlayGround\2.University\9.ErfanehSadri\VoiceAssistant\VoiceAssistant_Ostad\VoiceAssistant\obj\Debug\Interop.MediaPlayer.dll
+D:\1.Programming\1.Projects\2.PlayGround\2.University\9.ErfanehSadri\VoiceAssistant\VoiceAssistant_Ostad\VoiceAssistant\obj\Debug\VoiceAssistant.csproj.ResolveComReference.cache
+D:\1.Programming\1.Projects\2.PlayGround\2.University\9.ErfanehSadri\VoiceAssistant\VoiceAssistant_Ostad\VoiceAssistant\obj\Debug\VoiceAssistant.Form1.resources
+D:\1.Programming\1.Projects\2.PlayGround\2.University\9.ErfanehSadri\VoiceAssistant\VoiceAssistant_Ostad\VoiceAssistant\obj\Debug\VoiceAssistant.Form2.resources
+D:\1.Programming\1.Projects\2.PlayGround\2.University\9.ErfanehSadri\VoiceAssistant\VoiceAssistant_Ostad\VoiceAssistant\obj\Debug\VoiceAssistant.Properties.Resources.resources
+D:\1.Programming\1.Projects\2.PlayGround\2.University\9.ErfanehSadri\VoiceAssistant\VoiceAssistant_Ostad\VoiceAssistant\obj\Debug\VoiceAssistant.csproj.GenerateResource.cache
+D:\1.Programming\1.Projects\2.PlayGround\2.University\9.ErfanehSadri\VoiceAssistant\VoiceAssistant_Ostad\VoiceAssistant\obj\Debug\VoiceAssistant.csproj.CoreCompileInputs.cache
+D:\1.Programming\1.Projects\2.PlayGround\2.University\9.ErfanehSadri\VoiceAssistant\VoiceAssistant_Ostad\VoiceAssistant\obj\Debug\VoiceAssistant.exe
+D:\1.Programming\1.Projects\2.PlayGround\2.University\9.ErfanehSadri\VoiceAssistant\VoiceAssistant_Ostad\VoiceAssistant\obj\Debug\VoiceAssistant.pdb
+D:\1.Programming\1.Projects\2.PlayGround\2.University\9.ErfanehSadri\VoiceAssistant\VoiceAssistant_Ostad\VoiceAssistant\bin\Debug\VoiceAssistant.pdb
+D:\1.Projects\2.University\1.Bachelor\1.Academic Projects\Bachelor-Projects-Portfolio\8.Fundamentals-of Language-and-Speech-Processing-Module\2.VoiceAssistant\src\VoiceAssistant\VoiceAssistant\bin\Debug\VoiceAssistant.exe.config
+D:\1.Projects\2.University\1.Bachelor\1.Academic Projects\Bachelor-Projects-Portfolio\8.Fundamentals-of Language-and-Speech-Processing-Module\2.VoiceAssistant\src\VoiceAssistant\VoiceAssistant\bin\Debug\VoiceAssistant.exe
+D:\1.Projects\2.University\1.Bachelor\1.Academic Projects\Bachelor-Projects-Portfolio\8.Fundamentals-of Language-and-Speech-Processing-Module\2.VoiceAssistant\src\VoiceAssistant\VoiceAssistant\bin\Debug\VoiceAssistant.pdb
+D:\1.Projects\2.University\1.Bachelor\1.Academic Projects\Bachelor-Projects-Portfolio\8.Fundamentals-of Language-and-Speech-Processing-Module\2.VoiceAssistant\src\VoiceAssistant\VoiceAssistant\obj\Debug\VoiceAssistant.csproj.AssemblyReference.cache
+D:\1.Projects\2.University\1.Bachelor\1.Academic Projects\Bachelor-Projects-Portfolio\8.Fundamentals-of Language-and-Speech-Processing-Module\2.VoiceAssistant\src\VoiceAssistant\VoiceAssistant\obj\Debug\Interop.MediaPlayer.dll
+D:\1.Projects\2.University\1.Bachelor\1.Academic Projects\Bachelor-Projects-Portfolio\8.Fundamentals-of Language-and-Speech-Processing-Module\2.VoiceAssistant\src\VoiceAssistant\VoiceAssistant\obj\Debug\VoiceAssistant.csproj.ResolveComReference.cache
+D:\1.Projects\2.University\1.Bachelor\1.Academic Projects\Bachelor-Projects-Portfolio\8.Fundamentals-of Language-and-Speech-Processing-Module\2.VoiceAssistant\src\VoiceAssistant\VoiceAssistant\obj\Debug\VoiceAssistant.Form1.resources
+D:\1.Projects\2.University\1.Bachelor\1.Academic Projects\Bachelor-Projects-Portfolio\8.Fundamentals-of Language-and-Speech-Processing-Module\2.VoiceAssistant\src\VoiceAssistant\VoiceAssistant\obj\Debug\VoiceAssistant.Form2.resources
+D:\1.Projects\2.University\1.Bachelor\1.Academic Projects\Bachelor-Projects-Portfolio\8.Fundamentals-of Language-and-Speech-Processing-Module\2.VoiceAssistant\src\VoiceAssistant\VoiceAssistant\obj\Debug\VoiceAssistant.Properties.Resources.resources
+D:\1.Projects\2.University\1.Bachelor\1.Academic Projects\Bachelor-Projects-Portfolio\8.Fundamentals-of Language-and-Speech-Processing-Module\2.VoiceAssistant\src\VoiceAssistant\VoiceAssistant\obj\Debug\VoiceAssistant.csproj.GenerateResource.cache
+D:\1.Projects\2.University\1.Bachelor\1.Academic Projects\Bachelor-Projects-Portfolio\8.Fundamentals-of Language-and-Speech-Processing-Module\2.VoiceAssistant\src\VoiceAssistant\VoiceAssistant\obj\Debug\VoiceAssistant.csproj.CoreCompileInputs.cache
+D:\1.Projects\2.University\1.Bachelor\1.Academic Projects\Bachelor-Projects-Portfolio\8.Fundamentals-of Language-and-Speech-Processing-Module\2.VoiceAssistant\src\VoiceAssistant\VoiceAssistant\obj\Debug\VoiceAssistant.exe
+D:\1.Projects\2.University\1.Bachelor\1.Academic Projects\Bachelor-Projects-Portfolio\8.Fundamentals-of Language-and-Speech-Processing-Module\2.VoiceAssistant\src\VoiceAssistant\VoiceAssistant\obj\Debug\VoiceAssistant.pdb
