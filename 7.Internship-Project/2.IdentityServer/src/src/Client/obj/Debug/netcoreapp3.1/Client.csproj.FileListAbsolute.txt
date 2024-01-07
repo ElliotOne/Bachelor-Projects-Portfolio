@@ -1,0 +1,16 @@
+C:\Users\AMZ\Desktop\3_AspNetCoreAndApis\src\Client\bin\Debug\netcoreapp3.1\Client.exe
+C:\Users\AMZ\Desktop\3_AspNetCoreAndApis\src\Client\obj\Debug\netcoreapp3.1\Client.csprojAssemblyReference.cache
+C:\Users\AMZ\Desktop\3_AspNetCoreAndApis\src\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+C:\Users\AMZ\Desktop\3_AspNetCoreAndApis\src\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
+C:\Users\AMZ\Desktop\3_AspNetCoreAndApis\src\Client\bin\Debug\netcoreapp3.1\Client.deps.json
+C:\Users\AMZ\Desktop\3_AspNetCoreAndApis\src\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.json
+C:\Users\AMZ\Desktop\3_AspNetCoreAndApis\src\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.dev.json
+C:\Users\AMZ\Desktop\3_AspNetCoreAndApis\src\Client\bin\Debug\netcoreapp3.1\Client.dll
+C:\Users\AMZ\Desktop\3_AspNetCoreAndApis\src\Client\bin\Debug\netcoreapp3.1\Client.pdb
+C:\Users\AMZ\Desktop\3_AspNetCoreAndApis\src\Client\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Users\AMZ\Desktop\3_AspNetCoreAndApis\src\Client\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\AMZ\Desktop\3_AspNetCoreAndApis\src\Client\obj\Debug\netcoreapp3.1\Client.csproj.CoreCompileInputs.cache
+C:\Users\AMZ\Desktop\3_AspNetCoreAndApis\src\Client\obj\Debug\netcoreapp3.1\Client.csproj.CopyComplete
+C:\Users\AMZ\Desktop\3_AspNetCoreAndApis\src\Client\obj\Debug\netcoreapp3.1\Client.dll
+C:\Users\AMZ\Desktop\3_AspNetCoreAndApis\src\Client\obj\Debug\netcoreapp3.1\Client.pdb
+C:\Users\AMZ\Desktop\3_AspNetCoreAndApis\src\Client\obj\Debug\netcoreapp3.1\Client.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ljk2tg7z/9F5VwcYFASuPhOdlNo1TwSKWsx5tmoH+q+ZyFViFtYuqVX1hP9qzQee2iKZrXl0oSPYVJZic++C4Q==",
+  "success": true,
+  "projectFilePath": "D:\\1.Programming\\1.Projects\\1.Enterprise\\10.IrisaCompanyMicroservice\\IdentityServer\\src\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AMZ\\.nuget\\packages\\identitymodel\\4.3.1\\identitymodel.4.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\AMZ\\.nuget\\packages\\system.text.encodings.web\\4.7.0\\system.text.encodings.web.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
