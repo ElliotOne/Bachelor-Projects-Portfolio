@@ -1,0 +1,15 @@
+C:\Users\AMZ\Desktop\proj\Charity\Charity.App\bin\Debug\netcoreapp3.1\Charity.App.exe
+C:\Users\AMZ\Desktop\proj\Charity\Charity.App\bin\Debug\netcoreapp3.1\Charity.App.deps.json
+C:\Users\AMZ\Desktop\proj\Charity\Charity.App\bin\Debug\netcoreapp3.1\Charity.App.runtimeconfig.json
+C:\Users\AMZ\Desktop\proj\Charity\Charity.App\bin\Debug\netcoreapp3.1\Charity.App.runtimeconfig.dev.json
+C:\Users\AMZ\Desktop\proj\Charity\Charity.App\bin\Debug\netcoreapp3.1\Charity.App.dll
+C:\Users\AMZ\Desktop\proj\Charity\Charity.App\bin\Debug\netcoreapp3.1\Charity.App.pdb
+C:\Users\AMZ\Desktop\proj\Charity\Charity.App\obj\Debug\netcoreapp3.1\Charity.App.csprojAssemblyReference.cache
+C:\Users\AMZ\Desktop\proj\Charity\Charity.App\obj\Debug\netcoreapp3.1\Charity.App.AssemblyInfoInputs.cache
+C:\Users\AMZ\Desktop\proj\Charity\Charity.App\obj\Debug\netcoreapp3.1\Charity.App.AssemblyInfo.cs
+C:\Users\AMZ\Desktop\proj\Charity\Charity.App\obj\Debug\netcoreapp3.1\Charity.App.csproj.CoreCompileInputs.cache
+C:\Users\AMZ\Desktop\proj\Charity\Charity.App\obj\Debug\netcoreapp3.1\Charity.App.dll
+C:\Users\AMZ\Desktop\proj\Charity\Charity.App\obj\Debug\netcoreapp3.1\Charity.App.pdb
+C:\Users\AMZ\Desktop\proj\Charity\Charity.App\obj\Debug\netcoreapp3.1\Charity.App.genruntimeconfig.cache
+C:\Users\AMZ\Desktop\proj\Charity\Charity.App\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\AMZ\Desktop\proj\Charity\Charity.App\obj\Debug\netcoreapp3.1\Charity.App.csproj.CopyComplete
