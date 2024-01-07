@@ -1,0 +1,20 @@
+﻿Hello
+Goodbye
+Close
+Exit
+Monica
+Thank you
+What time is it
+What day is it
+Whats the date
+Whats todays date
+Out of the way
+Come back
+Show commands
+Hide commands
+Read commands
+How are you
+Open browser
+Open Email
+Play music
+Stop music
