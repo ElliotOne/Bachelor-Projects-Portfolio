@@ -68,18 +68,18 @@ The Doctor Panel Form provides the following functionalities for doctors managin
 1. **Login:**
    - Open the application and enter your login credentials.
    - Navigate to either the Secretary Panel or the Doctor Panel based on your role.
-<img src="https://github.com/ElliotOne/Bachelor-Projects-Portfolio/blob/main/2.Data-Structures-and-Algorithms-Module/1.Patient-Management-System/Screenshots/login.png"/>
+<img src="https://github.com/ElliotOne/Bachelor-Projects-Portfolio/blob/main/2.Data-Structures-and-Algorithms-Module/Patient-Management-System/Screenshots/login.png"/>
 
 2. **Secretary Panel:**
    - Choose an option from the menu in the Secretary Panel Form.
    - Follow the prompts to perform the desired operation.
    - Explore and manage patient appointments efficiently.
-<img src="https://github.com/ElliotOne/Bachelor-Projects-Portfolio/blob/main/2.Data-Structures-and-Algorithms-Module/1.Patient-Management-System/Screenshots/medical secretary panel.png"/>
+<img src="https://github.com/ElliotOne/Bachelor-Projects-Portfolio/blob/main/2.Data-Structures-and-Algorithms-Module/Patient-Management-System/Screenshots/medical%20secretary%20panel.png"/>
 
 3. **Doctor Panel:**
    - View a list of appointments associated with the logged-in doctor.
    - Click the "Visit" button to attend to the patient.
-<img src="https://github.com/ElliotOne/Bachelor-Projects-Portfolio/blob/main/2.Data-Structures-and-Algorithms-Module/1.Patient-Management-System/Screenshots/doctor panel.png"/>
+<img src="https://github.com/ElliotOne/Bachelor-Projects-Portfolio/blob/main/2.Data-Structures-and-Algorithms-Module/Patient-Management-System/Screenshots/doctor%20panel.png"/>
 
 4. **Exit:**
    - Close the application when you are done.
