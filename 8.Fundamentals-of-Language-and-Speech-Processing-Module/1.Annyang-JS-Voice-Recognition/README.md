@@ -34,7 +34,6 @@ Explore the application by speaking voice commands such as:
 
 ## Demo
 Watch the demo video to see the application in action: 
-<a href="https://raw.githubusercontent.com/ElliotOne/Bachelor-Projects-Portfolio/main/8.Fundamentals-of%20Language-and-Speech-Processing-Module/1.Annyang-JS-Voice-Recognition/demo/demo.mp4">
+<a href="https://raw.githubusercontent.com/ElliotOne/Bachelor-Projects-Portfolio/main/8.Fundamentals-of-Language-and-Speech-Processing-Module/1.Annyang-JS-Voice-Recognition/demo/demo.mp4">
 Download
 </a>
-
