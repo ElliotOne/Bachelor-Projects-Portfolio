@@ -65,4 +65,7 @@ All available voice commands are listed below:
 Sample voices for interaction with the application are available in the `Voices` folder.
 
 ## Demo
-For a quick demo, check out the [demo video](https://raw.githubusercontent.com/ElliotOne/Bachelor-Projects-Portfolio/main/8.Fundamentals-of%20Language-and-Speech-Processing-Module/2.VoiceAssistant/demo/demo.mp4).
+Watch the demo video to see the application in action: 
+<a href="https://raw.githubusercontent.com/ElliotOne/Bachelor-Projects-Portfolio/main/8.Fundamentals-of-Language-and-Speech-Processing-Module/2.VoiceAssistant/demo/demo.mp4">
+Download
+</a>
