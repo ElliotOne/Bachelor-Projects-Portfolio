@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa-IR">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>پنل مدیریت - داشبورد</title>
+    <link rel="stylesheet" href="../assets/css/lib/bootstrap.min.css">
+    <link rel="stylesheet" href="../assets/css/lib/all.min.css">
+    <link rel="stylesheet" href="../assets/css/default.css">
+  </head>
+
+  <body class="bg-dark">
+
+    <section>
+      <nav class="navbar navbar-expand-lg  navbar-dark bg-dark">
+        <a href="/panel" class="navbar-brand text-danger mr-4 ml-4">پنل مدیریت</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#NavbarTop">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="NavbarTop">
+          <ul class="nav navbar-nav">
+            <li class="nav-item">
+              <a href="/posts" class="nav-link">
+                <span class="fa fa-newspaper"></span>
+                مطلب ها</a>
+            </li>
+            <li class="nav-item">
+              <a href="/comments" class="nav-link">
+                <span class="fa fa-comment"></span>
+                نظر ها</a>
+            </li>
+
+          </ul>
+          <ul class="nav navbar-nav ml-auto">
+            <li class="nav-item">
+              <a href="/signout" class="nav-link mr-5">
+                <span class="fa fa-sign-out-alt"></span>
+                خروج
+              </a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </section>
+
+    <section id="topLabel">
+      <div class="container-fluid">
+        <div class="row text-white">
+          <div class="col text-center py-5">
+            <h2>
+              <span class="fa fa-user"></span>
+              پنل مدیریت</h2>
+            کاربر :
+            {{lblusername}}
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="welcomeMessage">
+      <div class="container-fluid text-center text-white">
+        <div class="row">
+          <div class="col-12">
+            <h4>به پنل مدیریت سایت خوش آمدید</h4>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div class="container-fluid">
+        <div class="row my-5 justify-content-center">
+          <div class="col-lg-3 col-md-3 col-sm-6 col-12">
+            <a href="/posts" class="btn btn-primary p-5 btn-block rounded-0 mt-lg-0 mt-md-0 mt-sm-3 mt-3">
+              <span class="fa fa-newspaper h4"></span>
+              <span class="h4">مطلب ها</span></a>
+          </div>
+          <div class="col-lg-3 col-md-3 col-sm-6 col-12">
+            <a href="/comments" class="btn btn-success text-white p-5 btn-block rounded-0 mt-lg-0 mt-md-0 mt-sm-3 mt-3">
+              <span class="fa fa-comment h4"></span>
+              <span class="h4">نظر ها</span></a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <script src="../assets/js/lib/jquery-3.3.1.min.js"></script>
+    <script src="../assets/js/lib/bootstrap.min.js"></script>
+
+  </body>
+
+</html>

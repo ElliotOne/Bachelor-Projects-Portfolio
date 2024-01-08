@@ -1,0 +1,111 @@
+<html dir="rtl" lang="fa-IR">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>مدیریت - نظرات</title>
+    <link rel="stylesheet" href="../assets/css/lib/bootstrap.min.css">
+    <link rel="stylesheet" href="../assets/css/lib/all.min.css">
+    <link rel="stylesheet" href="../assets/css/default.css">
+  </head>
+
+  <body class="bg-dark">
+
+    <section>
+      <nav class="navbar navbar-expand-lg  navbar-dark bg-dark">
+        <a href="/panel" class="navbar-brand text-danger mr-4 ml-4">پنل مدیریت</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#NavbarTop">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="NavbarTop">
+          <ul class="nav navbar-nav">
+            <li class="nav-item">
+              <a href="/posts" class="nav-link">
+                <span class="fa fa-newspaper"></span>
+                مطلب ها</a>
+            </li>
+            <li class="nav-item">
+              <a href="/comments" class="nav-link">
+                <span class="fa fa-comment"></span>
+                نظر ها</a>
+            </li>
+
+          </ul>
+          <ul class="nav navbar-nav ml-auto">
+            <li class="nav-item">
+              <a href="/signout" class="nav-link mr-5">
+                <span class="fa fa-sign-out-alt"></span>
+                خروج
+              </a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </section>
+
+    <section id="topLabel">
+      <div class="container-fluid">
+        <div class="row text-white">
+          <div class="col text-center py-5">
+            <h2>
+              <span class="fa fa-table"></span>
+              نظر ها</h2>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div class="container-fluid">
+        <div class="row mt-5 justify-content-center">
+          <div class="col-lg-9 col-md-9 col-sm-8 col-col-12">
+            <div class="table-responsive ">
+              <table class="table table-responsive-md table-responsive-sm table-bordered table-hover text-center bg-light" id="postsTable">
+                <thead class="bg-secondary text-white">
+                  <tr>
+                    <th>
+                      <span class="fa fa-sort"></span></th>
+                    <th>فرستنده</th>
+                    <th>متن نظر</th>
+                    <th>تاریخ ارسال</th>
+                    <th>وضعیت تایید</th>
+                    <th>حذف | پذیرفتن</th>
+                  </tr>
+                </thead>
+                <tbody>
+
+                  {{#each comments}}
+
+                    <tr>
+                      <td>{{this.id}}</td>
+                      <td>{{this.username}}</td>
+                      <td>{{this.commentText}}</td>
+                      <td>{{this.senddate}}</td>
+                      <td>{{this.isOk}}</td>
+                      <td>
+                        <a href="/deleteComment?id={{this.id}}" class="btn btn-danger">
+                          <span class="fa fa-times"></span>
+                        </a>
+                        <a href="/acceptComment?id={{this.id}}" class="btn btn-success">
+                          <span class="fa fa-check"></span>
+                        </a>
+                      </td>
+                    </tr>
+
+                  {{/each}}
+
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <script src="../assets/js/lib/jquery-3.3.1.min.js"></script>
+    <script src="../assets/js/lib/bootstrap.min.js"></script>
+
+  </body>
+
+</html>
