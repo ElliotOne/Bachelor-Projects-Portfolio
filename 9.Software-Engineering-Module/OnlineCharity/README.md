@@ -32,9 +32,14 @@ To implement this system in each city, village, or province, a network of charit
 *Screenshot of the front end and panel UI of the Charity Kindness Wall.* <a href="https://github.com/ElliotOne/Bachelor-Projects-Portfolio/tree/main/9.Software-Engineering-Module/OnlineCharity/Screenshots/ui">Browse</a>
 
 ## Diagrams
-- **Class Diagram**<img src="https://github.com/ElliotOne/Bachelor-Projects-Portfolio/blob/main/9.Software-Engineering-Module/OnlineCharity/Screenshots/digrams/class%20diagram.jpeg" />
-- **State Machine Diagram**<img src="https://github.com/ElliotOne/Bachelor-Projects-Portfolio/blob/main/9.Software-Engineering-Module/OnlineCharity/Screenshots/digrams/state-machine-diagram.jpeg" />
-- **Use Case Diagram**<img src="https://github.com/ElliotOne/Bachelor-Projects-Portfolio/blob/main/9.Software-Engineering-Module/OnlineCharity/Screenshots/digrams/use%20case%20diagram.jpeg" />
+- **Class Diagram**
+<img src="https://github.com/ElliotOne/Bachelor-Projects-Portfolio/blob/main/9.Software-Engineering-Module/OnlineCharity/Screenshots/digrams/class%20diagram.jpeg" />
+
+- **State Machine Diagram**
+<img src="https://github.com/ElliotOne/Bachelor-Projects-Portfolio/blob/main/9.Software-Engineering-Module/OnlineCharity/Screenshots/digrams/state-machine-diagram.jpeg" />
+
+- **Use Case Diagram**
+<img src="https://github.com/ElliotOne/Bachelor-Projects-Portfolio/blob/main/9.Software-Engineering-Module/OnlineCharity/Screenshots/digrams/use%20case%20diagram.jpeg" />
 
 ## Code
 - Front-end code: <a href="https://github.com/ElliotOne/Bachelor-Projects-Portfolio/tree/main/9.Software-Engineering-Module/OnlineCharity/src/frontend">FrontEnd Code</a>
