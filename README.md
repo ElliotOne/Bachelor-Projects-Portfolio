@@ -31,8 +31,8 @@ Embark on my Computer Engineering journey! 🚀 Explore diverse projects from my
 - [ASP.NET Core Microservice: IdentityServer](/7.Internship-Project/2.IdentityServer/)
 
 ### Fundamentals of Language and Speech Processing Module
-- [Node.js Application: Annyang.js Voice Recognition](/8.Fundamentals-of Language-and-Speech-Processing-Module/1.Annyang-JS-Voice-Recognition/)
-- [C# Windows Form Application: Voice Assistant](/8.Fundamentals-of Language-and-Speech-Processing-Module /2.VoiceAssistant/)
+- [Node.js Application: Annyang.js Voice Recognition](/8.Fundamentals-of-Language-and-Speech-Processing-Module/1.Annyang-JS-Voice-Recognition/)
+- [C# Windows Form Application: Voice Assistant](/8.Fundamentals-of-Language-and-Speech-Processing-Module/2.VoiceAssistant/)
 
 ### Software Engineering Module
 - [Charity Kindness Wall](/9.Software-Engineering-Module/OnlineCharity/)
