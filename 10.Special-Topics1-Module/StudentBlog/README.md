@@ -45,5 +45,14 @@ This is a simple web application for a student blog built using Node.js, Express
 - Explore the blog section, add new posts, and interact with comments.
 - Users with administrative access can manage comments and delete inappropriate content.
 
+## Screenshots
+
+<img src="https://github.com/ElliotOne/Bachelor-Projects-Portfolio/blob/main/10.Special-Topics1-Module/StudentBlog/Screenshots/1.png"/>
+<img src="https://github.com/ElliotOne/Bachelor-Projects-Portfolio/blob/main/10.Special-Topics1-Module/StudentBlog/Screenshots/2.png"/>
+<img src="https://github.com/ElliotOne/Bachelor-Projects-Portfolio/blob/main/10.Special-Topics1-Module/StudentBlog/Screenshots/3.png"/>
+<img src="https://github.com/ElliotOne/Bachelor-Projects-Portfolio/blob/main/10.Special-Topics1-Module/StudentBlog/Screenshots/4.png"/>
+<img src="https://github.com/ElliotOne/Bachelor-Projects-Portfolio/blob/main/10.Special-Topics1-Module/StudentBlog/Screenshots/5.png"/>
+<img src="https://github.com/ElliotOne/Bachelor-Projects-Portfolio/blob/main/10.Special-Topics1-Module/StudentBlog/Screenshots/6.png"/>
+
 
 Feel free to adjust it based on your specific project details.
