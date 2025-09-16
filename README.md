@@ -50,4 +50,3 @@ Embark on my Computer Engineering journey! 🚀 Explore diverse projects from my
 - Inside each project folder, find the README.md file for specific project details.
 
 Feel free to explore, learn, and enjoy the journey through my bachelor's projects!
-
